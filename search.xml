@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/01/19/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>关于记录这件事</title>
     <url>/2021/02/23/%E5%85%B3%E4%BA%8E%E8%AE%B0%E5%BD%95%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
     <content><![CDATA[<p><font face="宋体" size=5><br>有时候很好奇，我的生活到底是什么样子的，每天在做些什么事情，周围的人和事发生着什么变化，过去遗留的痕迹如何影响现在，未来有何预兆，希望如何，现实如何，结局又如何？某些瞬间或许会有一点感悟，但大部分时间，公认的规则和凝固的氛围，仿佛一只无形的手推着我，上课、写代码、推公式、吃饭、运动、娱乐、填各种各样的表、参加活动、打比赛，做着一切这个年纪应该做的事，有着这个年纪应有的幼稚、迷茫、冲动、乐观和焦虑。<a id="more"></a>只是恍惚之间，自己又好像一个旁观者，目视着我在不同的建筑之间往复，背景里四季变迁、晴雨交替，看似井然有序、按部就班，背后却是尽显浮躁和不知所措的内心。很多时候，发现自己竟然不知道最近在忙些什么，手头的事进行到了哪一步，上一次跑步是什么时候，甚至今天晚餐吃什么。重复的日常反而会助长遗忘，面对五花八门的“成果”，仿佛隔着一块屏幕，看得清楚却疏离。</p>
