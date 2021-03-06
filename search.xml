@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>中微子的基本性质和研究历史</title>
+    <url>/2021/03/05/%E4%B8%AD%E5%BE%AE%E5%AD%90%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E5%92%8C%E7%A0%94%E7%A9%B6%E5%8E%86%E5%8F%B2/</url>
+    <content><![CDATA[<h3 id="中微子的发现"><a href="#中微子的发现" class="headerlink" title="中微子的发现"></a>中微子的发现</h3><p>中微子最初是在研$\beta$-衰变的过程中被预言的:  </p>
+<script type="math/tex; mode=display">M(A,Z) \longrightarrow D(A,Z+1) + e^{-} + v_{e}</script>]]></content>
+      <categories>
+        <category>Particle physics and nuclear physics</category>
+      </categories>
+      <tags>
+        <tag>宇宙线</tag>
+        <tag>IceCube</tag>
+        <tag>中微子</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于记录这件事</title>
     <url>/2021/02/23/%E5%85%B3%E4%BA%8E%E8%AE%B0%E5%BD%95%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
     <content><![CDATA[<p>有时候很好奇，我的生活到底是什么样子的，每天在做些什么事情，周围的人和事发生着什么变化，过去遗留的痕迹如何影响现在，未来有何预兆，希望如何，现实如何，结局又如何？某些瞬间或许会有一点感悟，但大部分时间，公认的规则和凝固的氛围，仿佛一只无形的手推着我，上课、写代码、推公式、吃饭、运动、娱乐、填各种各样的表、参加活动、打比赛，做着一切这个年纪应该做的事，有着这个年纪应有的幼稚、迷茫、冲动、乐观和焦虑。<a id="more"></a>只是恍惚之间，自己又好像一个旁观者，目视着我在不同的建筑之间往复，背景里四季变迁、晴雨交替，看似井然有序、按部就班，背后却是尽显浮躁和不知所措的内心。很多时候，发现自己竟然不知道最近在忙些什么，手头的事进行到了哪一步，上一次跑步是什么时候，甚至今天晚餐吃什么。重复的日常反而会助长遗忘，面对五花八门的“成果”，仿佛隔着一块屏幕，看得清楚却疏离。</p>
@@ -15,20 +29,6 @@
       <tags>
         <tag>杂记</tag>
         <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>中微子的基本性质和研究历史</title>
-    <url>/2021/03/05/%E4%B8%AD%E5%BE%AE%E5%AD%90%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E5%92%8C%E7%A0%94%E7%A9%B6%E5%8E%86%E5%8F%B2/</url>
-    <content><![CDATA[<h3 id="中微子的发现"><a href="#中微子的发现" class="headerlink" title="中微子的发现"></a>中微子的发现</h3><p>中微子最初是在研$\beta$-衰变的过程中被预言的:  </p>
-<script type="math/tex; mode=display">M(A,Z) \longrightarrow D(A,Z+1) + e^{-} + v_{e}</script>]]></content>
-      <categories>
-        <category>Particle physics and nuclear physics</category>
-      </categories>
-      <tags>
-        <tag>宇宙线</tag>
-        <tag>IceCube</tag>
-        <tag>中微子</tag>
       </tags>
   </entry>
 </search>
