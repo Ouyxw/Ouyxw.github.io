@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>中微子的基本性质和研究历史</title>
-    <url>/2021/03/05/%E4%B8%AD%E5%BE%AE%E5%AD%90%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%A7%E8%B4%A8%E5%92%8C%E7%A0%94%E7%A9%B6%E5%8E%86%E5%8F%B2/</url>
-    <content><![CDATA[<h3 id="中微子的发现"><a href="#中微子的发现" class="headerlink" title="中微子的发现"></a>中微子的发现</h3><p>中微子最初是在研$\beta$-衰变的过程中被预言的:  </p>
-<script type="math/tex; mode=display">M(A,Z) \longrightarrow D(A,Z+1) + e^{-} + v_{e}</script>]]></content>
-      <categories>
-        <category>Particle physics and nuclear physics</category>
-      </categories>
-      <tags>
-        <tag>宇宙线</tag>
-        <tag>IceCube</tag>
-        <tag>中微子</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于记录这件事</title>
     <url>/2021/02/23/%E5%85%B3%E4%BA%8E%E8%AE%B0%E5%BD%95%E8%BF%99%E4%BB%B6%E4%BA%8B/</url>
     <content><![CDATA[<p>有时候很好奇，我的生活到底是什么样子的，每天在做些什么事情，周围的人和事发生着什么变化，过去遗留的痕迹如何影响现在，未来有何预兆，希望如何，现实如何，结局又如何？某些瞬间或许会有一点感悟，但大部分时间，公认的规则和凝固的氛围，仿佛一只无形的手推着我，上课、写代码、推公式、吃饭、运动、娱乐、填各种各样的表、参加活动、打比赛，做着一切这个年纪应该做的事，有着这个年纪应有的幼稚、迷茫、冲动、乐观和焦虑。<a id="more"></a>只是恍惚之间，自己又好像一个旁观者，目视着我在不同的建筑之间往复，背景里四季变迁、晴雨交替，看似井然有序、按部就班，背后却是尽显浮躁和不知所措的内心。很多时候，发现自己竟然不知道最近在忙些什么，手头的事进行到了哪一步，上一次跑步是什么时候，甚至今天晚餐吃什么。重复的日常反而会助长遗忘，面对五花八门的“成果”，仿佛隔着一块屏幕，看得清楚却疏离。</p>
@@ -30,5 +16,26 @@
         <tag>杂记</tag>
         <tag>日常</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>粒子物理简介</title>
+    <url>/2021/03/06/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B/</url>
+    <content><![CDATA[<h3 id="自然单位制"><a href="#自然单位制" class="headerlink" title="自然单位制"></a>自然单位制</h3><p>粒子物理的研究对象是非常小的基本粒子，运动速度非常快，接近光速，为避免数字写起来太麻烦、不直观，在粒子物理中普遍使用自然单位制. 自然单位制通常以一些常用的物理学基本常数作为单位，一般有：光速 $c=1$，即意味着“长度”和“时间”的量纲就相同, $1s=2.9979\times10^8m$; 普朗克常数 $\hbar=1$, 则有[能量]=1/[时间], $1(MeV)^{-1}=6.582\times10^{-22}s$; 玻尔兹曼常数 $\kappa=1$，则有[能量]=[温度], $1eV=11604K$. 在以上约定下，最后只剩下一个独立量纲，通常选择能量或质量的单位电子伏特（$eV$）来标定其他物理量.</p>
+<p>如果再进一步定义牛顿引力常数 $G_N=1$ 或者普朗克质量 $M_{Planck}=(\hbar c / G_N)^{1/2} = 1$, 就得到了一个更普遍的单位制，消除了所有的单位，只剩数字. 这相当于是用普朗克质量作为质量的单位，但是由于普朗克质量数值非常大，导致粒子质量数值很小，实际并不方便，所以不常用. </p>
+<p>在Minkowski空间（$x_1, x_2, x_3, x_4 = it$), 相应的四维能量和动量是（$p_1, p_2, p_3, p_4 = iE$). 因为第四维是复数，为简化，引入一个四维度规：    </p>
+<script type="math/tex; mode=display">
+g_{\mu\nu} = g^{\mu\nu} 
+\left(\begin{matrix} 
+  1  &0   &0  &0\\
+  0  &-1  &0  &0\\
+  0  &0   &-1 &0\\
+  0  &0   &0  &-1\\
+\end{matrix}\right)</script><p>定义四维时空矢量为 $x = (t, x_1, x_2, x_3)$, 四维能量动量 $p = (E, p_1, p_2, p_3)$. 这样每个四维矢量都不用含有虚数的定义. 定义两个四维矢量的乘积为：  </p>
+<script type="math/tex; mode=display">A \cdot B = g_{\mu\nu}A^\mu B^\nu = A_0B_0 - \mathbf{A} \cdot \mathbf{B}</script><p>则有：</p>
+<script type="math/tex; mode=display">p^2 = E^2 - |\mathbf{p}|^2</script><script type="math/tex; mode=display">x^2 = t^2 - |\mathbf{x}|^2</script><p>通常将满足 $p^2 &gt; 0$ 的四维动量称为类时的动量，而把满足 $p  &lt; 0$ 的动量成为类空的动量。实的在壳粒子的思维动量在此度规下一般满足 $p^2 &gt; 0$.</p>
+]]></content>
+      <categories>
+        <category>Particle physics and nuclear physics</category>
+      </categories>
   </entry>
 </search>
