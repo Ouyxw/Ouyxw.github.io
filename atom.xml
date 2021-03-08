@@ -6,7 +6,7 @@
   <link href="https://oyxw.link/atom.xml" rel="self"/>
   
   <link href="https://oyxw.link/"/>
-  <updated>2021-03-08T14:08:35.611Z</updated>
+  <updated>2021-03-08T16:28:12.835Z</updated>
   <id>https://oyxw.link/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2021.3.8记</title>
+    <link href="https://oyxw.link/2021/03/08/2021-3-8%E8%AE%B0/"/>
+    <id>https://oyxw.link/2021/03/08/2021-3-8%E8%AE%B0/</id>
+    <published>2021-03-08T15:51:06.000Z</published>
+    <updated>2021-03-08T16:28:12.835Z</updated>
+    
+    <content type="html"><![CDATA[<p>开通博客以来，随着不断地练习，对markdown和latex也慢慢地熟悉起来了。想来写作、编程这些东西，还是要多加练习才能掌握，写完一篇blog后回顾，码字时的熟练的和快速找到错误并解决的那种体验很是让人欣喜。虽然在技术上遇到了各种各样的问题，寻找解决方法时经常焦头烂额，但看着一篇完整的blog诞生，里面记载着我的生活和思考、记载着我深深喜爱的那些事物，看到他们以文字的形式存在于世间，不禁有一种归宿感。这里提供给我一个安静思考的空间，回过头来看自己写过的东西，突然间发现我的生活并没有那么枯燥，在这平淡一致的日常里，原来还有很多瞬间在诠释着我是一个鲜活的人。突然有点感动是怎么回事(‘ _ ‘), 不过话说回来，写blog真是件体力活，内容要不断修改尽量避免错误，往往有很多概念理解得并不深，只能将自己浅显的认知拿出来，未来的我，看到今天写的这些东西，恐怕会露出浅笑吧。</p><p>还是写随笔好玩儿，没那么多公式和概念，不用考虑文章结构和逻辑，想到啥就写啥，读起来竟然还出奇的顺口，或许唠嗑是人类最基础的天赋之一吧。</p><blockquote><p>说实话我个纯小白对粒子物理和宇宙线真的一窍不通，敢写这些也是自己复盘用，不用再查资料解决那些常识性的问题（emmm, 也有一部分是在其他专业的人面前表现一下，喂一喂自己的虚荣心？）好在这个blog基本没啥人看，目前主要供我自娱自乐，希望不要丢人丢太远QAQ</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;开通博客以来，随着不断地练习，对markdown和latex也慢慢地熟悉起来了。想来写作、编程这些东西，还是要多加练习才能掌握，写完一篇blog后回顾，码字时的熟练的和快速找到错误并解决的那种体验很是让人欣喜。虽然在技术上遇到了各种各样的问题，寻找解决方法时经常焦头烂额，但</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="https://oyxw.link/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="杂记" scheme="https://oyxw.link/tags/%E6%9D%82%E8%AE%B0/"/>
+    
+    <category term="日常" scheme="https://oyxw.link/tags/%E6%97%A5%E5%B8%B8/"/>
+    
+  </entry>
+  
+  <entry>
     <title>粒子物理简介（一）</title>
     <link href="https://oyxw.link/2021/03/06/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B/"/>
     <id>https://oyxw.link/2021/03/06/%E7%B2%92%E5%AD%90%E7%89%A9%E7%90%86%E7%AE%80%E4%BB%8B/</id>
     <published>2021-03-06T15:43:43.000Z</published>
-    <updated>2021-03-08T14:08:35.611Z</updated>
+    <updated>2021-03-08T14:16:18.359Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>这个专栏从唯象角度出发，介绍基本粒子物理图像，尽量不涉及场论和高量的内容. 主要目的是为宇宙线天体中微子观测模拟做一个铺垫, 重点在于物理图像的构建. 由于作者自身水平所限，难免会有不严谨的地方，会不断更新，敬请谅解. </p></blockquote><a id="more"></a><h3 id="自然单位制"><a href="#自然单位制" class="headerlink" title="自然单位制"></a>自然单位制</h3><p>粒子物理的研究对象是非常小的基本粒子，运动速度非常快，接近光速，为避免数字写起来太麻烦、不直观，在粒子物理中普遍使用自然单位制. 自然单位制通常以一些常用的物理学基本常数作为单位，一般有：光速 $c=1$，即意味着“长度”和“时间”的量纲就相同, $1s=2.9979\times10^8m$; 普朗克常数 $\hbar=1$, 则有[能量]=1/[时间], $1(MeV)^{-1}=6.582\times10^{-22}s$; 玻尔兹曼常数 $\kappa=1$，则有[能量]=[温度], $1eV=11604K$. 在以上约定下，最后只剩下一个独立量纲，通常选择能量或质量的单位电子伏特（$eV$）来标定其他物理量.</p><p>如果再进一步定义牛顿引力常数 $G_N=1$ 或者普朗克质量 $M_{Planck}=(\hbar c / G_N)^{1/2} = 1$, 就得到了一个更普遍的单位制，消除了所有的单位，只剩数字. 这相当于是用普朗克质量作为质量的单位，但是由于普朗克质量数值非常大，导致粒子质量数值很小，实际并不方便，所以不常用. </p><p>在Minkowski空间（$x_1, x_2, x_3, x_4 = it$), 相应的四维能量和动量是（$p_1, p_2, p_3, p_4 = iE$). 因为第四维是复数，为简化，引入一个四维度规：    </p><script type="math/tex; mode=display">g_{\mu\nu} = g^{\mu\nu} \left(\begin{matrix}   1  &0   &0  &0\\  0  &-1  &0  &0\\  0  &0   &-1 &0\\  0  &0   &0  &-1\\\end{matrix}\right)</script><p>定义四维时空矢量为 $x = (t, x_1, x_2, x_3)$, 四维能量动量 $p = (E, p_1, p_2, p_3)$. 这样每个四维矢量都不用含有虚数的定义. 定义两个四维矢量的乘积为：  </p><script type="math/tex; mode=display">A \cdot B = g_{\mu\nu}A^\mu B^\nu = A_0B_0 - \mathbf{A} \cdot \mathbf{B}</script><p>则有：</p><script type="math/tex; mode=display">p^2 = E^2 - |\mathbf{p}|^2</script><script type="math/tex; mode=display">x^2 = t^2 - |\mathbf{x}|^2</script><p>通常将满足 $p^2 &gt; 0$ 的四维动量称为类时的动量，而把满足 $p  &lt; 0$ 的动量成为类空的动量.实的在壳粒子的四维动量在此度规下一般满足 $p^2 &gt; 0$.</p><h3 id="粒子的基本属性"><a href="#粒子的基本属性" class="headerlink" title="粒子的基本属性"></a>粒子的基本属性</h3><h4 id="1-粒子的质量"><a href="#1-粒子的质量" class="headerlink" title="1.粒子的质量"></a>1.粒子的质量</h4><p>对于自由运动粒子，其速度为 $v$, 能量 $E$，动量 $p$, 静止质量 $m$, 由相对论，有：</p><script type="math/tex; mode=display">E = \frac m{\sqrt{1-v^2}}, p = \frac {mv}{\sqrt{1-v^2}}, E^2-p^2 = m^2（质壳条件）</script><p>其中最后一个等式称为质壳条件, 在能量和动量组成的四维相空间里，它给出了一个四维空间中的三维曲面的方程.  </p><p>在实验中，粒子质量的测量值 $M$ 成一定的分布，用参数 $m$ 和 $\Gamma$ 描述. 在 $m$ 附近，质量测量值 $M$ 的概率密度为：</p><script type="math/tex; mode=display">\rho (M) = \frac {\Gamma}{2\pi [(M-m)^2+{\Gamma}^2/4]}</script><p>$m$ 的物理意义是粒子质量实测值的期望;$\Gamma$ 的物理意义是，观测质量的概率密度减到一半处 $M$ 的值为 $m \pm \Gamma /2$，其宽度为 $\Gamma$，所以称 $\Gamma$ 为粒子的宽度. 粒子质量在 $m -\Gamma /2$ 到 $m + \Gamma /2$ 之间的概率为50%，小于 $m - \Gamma /2$ 和大于 $m + \Gamma /2$ 的概率各为25%.</p><h4 id="2-粒子的寿命"><a href="#2-粒子的寿命" class="headerlink" title="2.粒子的寿命"></a>2.粒子的寿命</h4><p>单个粒子的寿命是指其从产生到衰变所经历的时间. 对于某一类粒子，定义其寿命为粒子静止时的平均寿命，这里强调静止是扣除了运动时钟的延缓效应的影响. </p><p>不稳定粒子的宏观描述：令 $N(t)$ 为 $t$ 时刻某种不稳定粒子的数目，在 $t$ 到 $t+dt$ 的 $dt$　时间间隔中，由衰变粒子数改变了　$dN$, $dN$ 应正比于 $N$ 和 $dt$. 则有</p><script type="math/tex; mode=display">dN = -\tau^{-1}N(t)dt</script><p>其中 $\tau$ 是一个反应该粒子不稳定性的参量，上述方程的解为</p><script type="math/tex; mode=display">N(t) = N(0)e^{-\frac t\tau}</script><p>由此可以看出 $\tau$ 的物理意义是该粒子的平均寿命. </p><p>不稳粒子有不同的几种衰变方式，每种衰变方式的占比称为该衰变方式的分支比，记作 $R_\ell$. </p><p>不稳定粒子的量子力学描述：在量子力学中，描述单个自由粒子运动状态的波函数 $\psi$ 满足薛定谔方程：</p><script type="math/tex; mode=display">i \frac {\partial \psi(x, t)}{\partial t} = H\psi (x, t)</script><p>其中 $H$ 是该自由粒子的哈密顿量，它的测量值的物理意义是该自由粒子的总能量. 如果是在相对该自由粒子静止的系统中来处理，哈密顿量测量值的物理意义就是该自由粒子的质量.</p><p>上面薛定谔方程的解为  </p><script type="math/tex; mode=display">\psi(x, t) = e^{-im't}</script><p>其中 $m^{‘}$ 是哈密顿量 $H$ 的本征值，$\psi(x)$ 是哈密顿量 $H$ 的本征值为 $m$ 的本征函数. 波函数 $\psi(x, t)$ 满足归一化条件：</p><script type="math/tex; mode=display">\int |\psi(x, t)|^2 \mathrm{d}^3x = 1</script><p>如果哈密顿量 $H$ 的本征值 $m’$ 是复数 $m’ = m-i\Gamma /2$, 薛定谔方程的解为：</p><script type="math/tex; mode=display">\psi(x, t) = e^{-i(m-i\Gamma /2)t}\theta(t)\psi(t)</script><p>其中 $\theta(t)$ 是阶跃函数：当 $t&gt;0$ 时，$\theta(t)= 1$；当 $t&lt;0$ 时，$\theta(t) = 0$. 波函数 $\psi(x, t)$ 满足的归一化条件变为</p><script type="math/tex; mode=display">\int|\psi(x, t)|^2\mathrm{d}^3x = e^{-\Gamma t}\theta(t)</script><p>这个结果表明粒子在全空间存在的总概率在 $t<0$ 时为 $0$；$t>0$ 时为 $e^{-\Gamma t}$. 这正描写了一个在 $t = 0$时产生的不稳定粒子，该粒子的寿命 $\tau$ 和哈密顿 $H$ 本征值 $m’$ 的虚部 $\Gamma /2$ 满足关系</p><script type="math/tex; mode=display">\Gamma \tau = 1</script><p>这个关系表明，对于不稳定粒子的寿命，可以直接测量，也可以通过测量参数 $\Gamma$ 而间接得到.</p><p>如果哈密顿量 $H$ 的本征值 $m’$ 是实数，$m’$ 就是粒子的质量，测量粒子的质量时测得的值 $M$ 就是 $m’$. 但如果哈密顿量 $H$ 的本征值 $m’$ 是复数 $m’ = m-i\Gamma /2$，所描写的粒子就是一个不稳定粒子，这是测量粒子的质量时测得的 $M$ 值取什么值就需要从量子力学上进行考察. 从相对论的观点来看，时间和三维空间是对称的，统一为四维时空的分量，依此时间和空间类似，也是一种广义坐标，它所对应的广义动量是粒子的能量，在粒子静止系中即表现为实验上测量不稳定粒子的质量值 $M$. 由上面给出的含时波函数对时间变量做Fourier变换得到能量表象下的波函数为</p><script type="math/tex; mode=display">\psi(x, M) = \sqrt{\frac \Gamma{2\pi}} \frac i{(M-m+i\Gamma/2)} \psi(x)</script><p>实验上测量到不稳定粒子质量取值 $M$ 附近的概率密度为波函数模的平方. 把波函数模的平方对全空间积分，并对 $M$ 值从 $-\infty$ 到 $+\infty$ 区域内归一，就得到实验上测量不稳定粒子的质量分布函数，这就是前面已经给车的不稳定粒子质量分布函数. 它表明实验上测量不稳定粒子的质量得到的不是确定的值，而是又可以用两个参数 $m$ 和 $\Gamma$ 来描写的一定分布，$\Gamma$ 的物理意义是粒子质量分布的宽度. 如果不稳定例子的寿命很长，可以通过测量粒子衰变前所走径迹的长度来确定粒子的寿命. 如果粒子的寿命很短，在衰变前所走的距离只有相当于或小与原子直径的量级，就无法通过测量粒子衰变前所走的径迹的长度来确定粒子的寿命，这时往往通过测量粒子的质量分布，量出宽度 $\Gamma$, 算出寿命 $\tau$. 显然粒子的宽度越大，测量越准确.</p><p>粒子的宽度是粒子寿命的倒数，它的概率含义是单位时间内粒子衰变掉的概率. 单位时间内粒子衰变到第 $i$ 衰变道的概率称为该衰变道的部分宽度 $\Gamma_i$. 它和粒子的宽度 $\Gamma$ 以及该衰变道的分支比 $R_i$ 满足关系</p><script type="math/tex; mode=display">\Gamma_i = \Gamma R_i, \ \sum_i \Gamma_i = \Gamma</script><p>粒子的宽度 $\Gamma$ 和各衰变道的分支比 $R_i$ 是实验上可以直接测量的量，粒子各衰变道的部分宽度 $\Gamma_i$ 都算出后，粒子的宽度 $\Gamma$ 和各衰变道的分支比 $R_i$ 也就可以推算出来了.</p><p>一个不稳定粒子可以有几种衰变道路，有时候某一衰变道的末态各粒子质量的总和大于该不稳定例子的质量，即衰变道的阈值高于该粒子的质量，这时称为近阈共振态.</p><p>衡量粒子寿命的长短不能用宏观的标准，要用粒子的自振动周期 $T$ 来衡量. 粒子经过平均寿命的时间中震动次数为</p><script type="math/tex; mode=display">\frac {\tau}T = \frac m{2\pi \Gamma}</script><p>只要粒子的质量大于宽度，粒子就是比较稳定的.</p><h4 id="3-粒子的电荷"><a href="#3-粒子的电荷" class="headerlink" title="3.粒子的电荷"></a>3.粒子的电荷</h4><p>粒子的电荷是量子化的，即粒子的电荷都是最小单位的整数倍，电荷最小单位值质子的电荷</p><script type="math/tex; mode=display">e = (1.60217733 \pm 0.00000049) \times 10^{-19}C</script><p>电荷是在一切相互作用下都守恒的一个守恒量，同时又是一种相互作用荷. 对电荷的测量既可以利用它的守恒性，也可以利用它作为相互作用荷的动力效应.</p><h4 id="4-粒子的自旋"><a href="#4-粒子的自旋" class="headerlink" title="4.粒子的自旋"></a>4.粒子的自旋</h4><p>自旋是量子化的，可以用一个数 $j$ 来代表，$j = 0, 1/2, 1, 3/2, 2, \dots$ 自旋量子化表现为：粒子自旋角动量绝对值的平方  $j(j+1)$；粒子自旋角动量在任一方向的投影取值为 $j, j-1, j-2, \dots, -j+1, -j$.<br>按照自旋可将所有粒子分为费米子和玻色子：</p><script type="math/tex; mode=display">j = 1/2, \ 3/2, \ 5/2, \ 7/2, \ \dots\ \ \ 费米子</script><script type="math/tex; mode=display">j = 1, \ 2, \ 3,\ 4, \ \dots \ ,\ \ \ 玻色子</script><p>粒子自旋角动量在粒子运动方向的投影称为螺旋度，螺旋度在研究粒子的运动性质和动力性质时特别重要. 如果有一个粒子在运动时自旋对运动方向是右旋的，如果换到另一个沿同一方向以更快速度运动的参考系上来看，粒子的运动方向就反过来了，自旋对运动方向变成是左旋的了，即意味着粒子的螺旋度在不同的参考系里可以不同.</p><p>考虑无质量粒子，它们只能以光速运动，这是不能找到一个参考系，其速度高于此粒子的运动速度，粒子的螺旋度就也不能随参考系的改变而改变.例如光子的自旋为1，一般来说，自旋为1的粒子，其自旋沿着运动方向的投影可以有1，0，-1三个值. 但由于光子无质量，它只有两个极化，即1和-1，表现为右旋和左旋.</p><p>常见的几种粒子的自旋：</p><div class="table-container"><table><thead><tr><th>$\gamma$</th><th>e</th><th>$\mu$</th><th>$\pi$</th><th>p</th><th>n</th><th>W</th><th>Z</th></tr></thead><tbody><tr><td>1</td><td>1/2</td><td>1/2</td><td>0</td><td>1/2</td><td>1/2</td><td>1</td><td>1</td></tr></tbody></table></div><h4 id="5-粒子的磁矩"><a href="#5-粒子的磁矩" class="headerlink" title="5.粒子的磁矩"></a>5.粒子的磁矩</h4><p>带电粒子的磁矩是指它的自旋磁矩 $\mu$, 它和粒子的自旋 $s$ 满足：</p><script type="math/tex; mode=display">\mu = g \frac e{2m} s</script><p>对于任意自旋 $s$ 不为零的带电粒子，如果它与电磁场的相互作用满足最小电磁作用原理，则普遍有：</p><script type="math/tex; mode=display">sg = 1</script><p>最小电磁作用原理要求带电粒子和电磁场的相互作用是通过在粒子的哈密顿量中作代换 $p_\mu \rightarrow p_\mu - eA_{\mu}$ 给出的.</p><p>p.s.反常磁矩就不做讨论了</p>]]></content>
     
