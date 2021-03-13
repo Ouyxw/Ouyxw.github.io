@@ -6,7 +6,7 @@
   <link href="https://oyxw.link/atom.xml" rel="self"/>
   
   <link href="https://oyxw.link/"/>
-  <updated>2021-03-08T16:32:47.171Z</updated>
+  <updated>2021-03-12T15:08:12.681Z</updated>
   <id>https://oyxw.link/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>广延大气簇射简介</title>
+    <link href="https://oyxw.link/2021/03/11/%E5%B9%BF%E5%BB%B6%E5%A4%A7%E6%B0%94%E7%B0%87%E5%B0%84%E7%AE%80%E4%BB%8B/"/>
+    <id>https://oyxw.link/2021/03/11/%E5%B9%BF%E5%BB%B6%E5%A4%A7%E6%B0%94%E7%B0%87%E5%B0%84%E7%AE%80%E4%BB%8B/</id>
+    <published>2021-03-11T12:30:39.000Z</published>
+    <updated>2021-03-12T15:08:12.681Z</updated>
+    
+    <content type="html"><![CDATA[<p>广延大气簇射（EAS）是指原初宇宙线高能粒子撞击大气粒子的原子核产生重子、轻子、光子。这些次级粒子再重复作用产生更多次级粒子，直到平均能量等于临界值，次级粒子的数目达到最大值，称为簇射极大，在此之后粒子逐渐衰变或被大气吸收，使次级粒子数目逐渐下降，这种反应称为“空气簇射”. 空气簇射主要分为两类：1.电磁簇射；2.强子簇射. 电磁簇射主要指高能原初光子或者电子进入大气层后以电磁相互作用为主的级联，相互作用过程主要是：（1）电子的韧致辐射和电离能损，（2）光子的对产生. 电子的总能所为：  </p><script type="math/tex; mode=display">\frac {\mathrm{d}E}{\mathrm{d}X} = -\alpha(E) - \frac E{X_R}</script><p>其中 $\alpha(E)$ 为电离能损项目，依赖于电子的能量，$X_R$ 是辐射长度，依赖于 EAS 发展的介质（空气中 $X_R \approx 37g/cm^2$). 在级联过程中粒子对产生过程和电子能损过程是相互竞争的关系. 当电子的能量达到其临界能量（约为$86MeV$-电子的能损和对产生能量相等称为临界能量), 光子的能量降到对产生过程的临界能量时，次级粒子的数目达到极大，而后次级粒子述模迅速衰减.</p><p>强子级联簇射指的是高能原初强子进入大气层后和空气中的核发生强相互作用生成次级粒子后再进行其他相互作用形成级联过程. 强相互作用的产物主要是 $\pi$ 介子，还有其他少量的粒子（如K介子）和反粒子. $\pi$ 介子、K介子寿命很短，很快衰变，主要反应如下：</p><script type="math/tex; mode=display">\pi^{\pm} \rightarrow \mu^{\pm} + \nu_{\mu}/\overline{\nu}_{\mu}; \ \pi^{0} \rightarrow \gamma+\gamma</script><script type="math/tex; mode=display">K^{\pm} \rightarrow \mu^{\pm} + \nu_{\mu}/\overline{\nu}_{\mu}; K^{\pm} \rightarrow \pi^{\pm} + \pi^0; \ K^0 \rightarrow \pi^+ +\pi^-.</script><p>对于 $\mu$ 子来说寿命比较长，在介质中衰变比较弱，而是通过电离过程损失能量. 对于中微子来说，由于截面非常小几乎不和介质发生作用. 对于高能中性的 $\pi$ 产生的光子又会在介质中发生电磁级联. </p><p> 综上所述，宇宙线大气簇射主要包含三种成分：强子成分、电磁成分、$\mu$ 子成分. 强子成分主要包括质子、中子和介子. 电磁成分和$\mu$ 子成分相对于强子成分分布的比较宽. 电磁成分是簇射中次级粒子最多的成份，其横向分布受库伦散射影响比较大，可以用NKG函数来描述:</p><script type="math/tex; mode=display">\rho(r) = \frac {N_e}{2\pi r^2_m} \frac {r^{s-2}}{r_m} (1+\frac r{r_m})^{s-4.5} \frac {\Gamma(4.5-s)}{\Gamma(s)\Gamma(4.5-2s)} \tag{1}</script><p>目前世界上针对EAS主要特性的探测包括：带点次级粒子的测量、Cerenkov光的测量、荧光的测量、射电辐射的测量等. </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;广延大气簇射（EAS）是指原初宇宙线高能粒子撞击大气粒子的原子核产生重子、轻子、光子。这些次级粒子再重复作用产生更多次级粒子，直到平均能量等于临界值，次级粒子的数目达到最大值，称为簇射极大，在此之后粒子逐渐衰变或被大气吸收，使次级粒子数目逐渐下降，这种反应称为“空气簇射”.</summary>
+      
+    
+    
+    
+    <category term="宇宙线物理" scheme="https://oyxw.link/categories/%E5%AE%87%E5%AE%99%E7%BA%BF%E7%89%A9%E7%90%86/"/>
+    
+    
+    <category term="ARGO" scheme="https://oyxw.link/tags/ARGO/"/>
+    
+    <category term="Monte Carlo" scheme="https://oyxw.link/tags/Monte-Carlo/"/>
+    
+    <category term="Corsika" scheme="https://oyxw.link/tags/Corsika/"/>
+    
+  </entry>
   
   <entry>
     <title>2021.3.8记</title>
