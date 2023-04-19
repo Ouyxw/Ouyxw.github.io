@@ -8,7 +8,7 @@
       <link href="/2023/04/19/test/"/>
       <url>/2023/04/19/test/</url>
       
-        <content type="html"><![CDATA[<p>&lt;%- partial(‘_partial&#x2F;comment’) %&gt;</p>]]></content>
+        <content type="html"><![CDATA[<script src="https://utteranc.es/client.js"        repo="Ouyxw/Ouyxw.github.io"        issue-term="pathname"        theme="github-light"        crossorigin="anonymous"        async></script>]]></content>
       
       
       <categories>
