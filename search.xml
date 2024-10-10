@@ -8,7 +8,7 @@
       <link href="/2024/10/10/test/"/>
       <url>/2024/10/10/test/</url>
       
-        <content type="html"><![CDATA[<p>![[source&#x2F;_posts&#x2F;test&#x2F;image-${date}.png]]</p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/source/_posts/test/image-$%7Bdate%7D.png"></p>]]></content>
       
       
       
