@@ -8,21 +8,9 @@
       <link href="/2024/10/10/test/"/>
       <url>/2024/10/10/test/</url>
       
-        <content type="html"><![CDATA[<p>![[image-${date}.png]]</p><p>![[image-${date} 1.png]]</p>]]></content>
+        <content type="html"><![CDATA[<p>![[source&#x2F;_posts&#x2F;test&#x2F;image-${date}.png]]</p>]]></content>
       
       
-      <categories>
-          
-          <category> 这是一个常识 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 不知道 </tag>
-            
-        </tags>
       
     </entry>
     
