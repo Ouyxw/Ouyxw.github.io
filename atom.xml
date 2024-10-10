@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-11-07T09:00:07.486Z</updated>
+  <updated>2024-10-10T19:59:38.843Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2024/10/10/test/"/>
+    <id>http://example.com/2024/10/10/test/</id>
+    <published>2024-10-10T19:57:17.000Z</published>
+    <updated>2024-10-10T19:59:38.843Z</updated>
+    
+    <content type="html"><![CDATA[<p>![[image-${date}.png]]</p><p>![[image-${date} 1.png]]</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;![[image-${date}.png]]&lt;/p&gt;
+&lt;p&gt;![[image-${date} 1.png]]&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="这是一个常识" scheme="http://example.com/categories/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B8%B8%E8%AF%86/"/>
+    
+    
+    <category term="不知道" scheme="http://example.com/tags/%E4%B8%8D%E7%9F%A5%E9%81%93/"/>
+    
+  </entry>
   
   <entry>
     <title>被铭记的死亡与理想破碎——十月革命106周年记</title>

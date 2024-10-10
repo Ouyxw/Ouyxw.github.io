@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2024/10/10/test/"/>
+      <url>/2024/10/10/test/</url>
+      
+        <content type="html"><![CDATA[<p>![[image-${date}.png]]</p><p>![[image-${date} 1.png]]</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 这是一个常识 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 不知道 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>被铭记的死亡与理想破碎——十月革命106周年记</title>
       <link href="/2023/11/07/%E8%A2%AB%E9%93%AD%E8%AE%B0%E7%9A%84%E6%AD%BB%E4%BA%A1%E4%B8%8E%E7%90%86%E6%83%B3%E7%A0%B4%E7%A2%8E/"/>
       <url>/2023/11/07/%E8%A2%AB%E9%93%AD%E8%AE%B0%E7%9A%84%E6%AD%BB%E4%BA%A1%E4%B8%8E%E7%90%86%E6%83%B3%E7%A0%B4%E7%A2%8E/</url>
